@@ -1,0 +1,23 @@
+{
+  "name": "1-nodeJS-expressJS-mongoDB",
+  "version": "1.0.0",
+  "description": "node-express-mongoDB with redis application caching",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sravan464/1-nodeJS-expressJS-mongoDB.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sravan464/1-nodeJS-expressJS-mongoDB/issues"
+  },
+  "homepage": "https://github.com/sravan464/1-nodeJS-expressJS-mongoDB#readme",
+  "dependencies": {
+    "express": "^4.16.1"
+  }
+}
